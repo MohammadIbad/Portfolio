@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e4bd6136.css",
+    "main.js": "/Portfolio/static/js/main.d9f9cc89.js",
+    "static/media/image.png": "/Portfolio/static/media/image.b724c382d60a7471e881.png",
+    "static/media/Pythonlogo.png": "/Portfolio/static/media/Pythonlogo.e43e61d35ff2df7c8019.png",
+    "static/media/JavaScriptlogo.png": "/Portfolio/static/media/JavaScriptlogo.d7b387955ad9f3bfa7df.png",
+    "static/media/Javalogo.png": "/Portfolio/static/media/Javalogo.c216deeec05f03e984b4.png",
+    "static/media/project1.png": "/Portfolio/static/media/project1.98201bcfa521cb12fdba.png",
+    "static/media/project3.png": "/Portfolio/static/media/project3.29464b0221b85bff74d1.png",
+    "static/media/project2.png": "/Portfolio/static/media/project2.299613f53f38f720fbb1.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e4bd6136.css.map": "/Portfolio/static/css/main.e4bd6136.css.map",
+    "main.d9f9cc89.js.map": "/Portfolio/static/js/main.d9f9cc89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4bd6136.css",
+    "static/js/main.d9f9cc89.js"
+  ]
+}
